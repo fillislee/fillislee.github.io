@@ -6,7 +6,19 @@
     <description>Recent content on fillis lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 15:15:59 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jan 2022 15:15:59 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 2</title>
+      <link>/posts/day2/</link>
+      <pubDate>Wed, 12 Jan 2022 15:15:59 +0100</pubDate>
+      
+      <guid>/posts/day2/</guid>
+      <description>On day two i learned a bit aubout JavaScript, did a tutorial quiz aubout it. And then in the end made a tictactoe game to apply, what i have just learned.</description>
+      <content>&lt;p&gt;On day two i learned a bit aubout JavaScript, did a tutorial quiz aubout it.
+And then in the end made a tictactoe game to apply, what i have just learned.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Day 1</title>
       <link>/posts/day1/</link>
