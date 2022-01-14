@@ -6,7 +6,19 @@
     <description>Recent content in Posts on fillis lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jan 2022 11:15:59 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 11:15:59 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 4</title>
+      <link>/posts/day4/</link>
+      <pubDate>Fri, 14 Jan 2022 11:15:59 +0100</pubDate>
+      
+      <guid>/posts/day4/</guid>
+      <description>Today was my last day at superluminar. I learned how to use aws and kind off played a little bit with it. On monday i will be at carpetlight.</description>
+      <content>&lt;p&gt;Today was my last day at &lt;a href=&#34;https://superluminar.io/&#34;&gt;superluminar&lt;/a&gt;. I learned how to use aws and kind off
+played a little bit with it. On monday i will be at &lt;a href=&#34;https://www.carpetlight.com/&#34;&gt;carpetlight&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Day 3</title>
       <link>/posts/day3/</link>
