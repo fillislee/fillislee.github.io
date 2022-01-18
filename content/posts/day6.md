@@ -5,4 +5,4 @@ cover = "/img/feli.png"
 +++
 
 Today i first had some sewing lessons and then made a little bag, to store a tiny light.
-I acidently did not cut yhe fabric right at the start, so it was a little long and thin.
+I acidently did not cut the fabric right at the start, so it was a little long and thin.
